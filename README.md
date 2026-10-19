@@ -1,89 +1,51 @@
-# <div align="center">⚡ THE OMNIPOTENT CYBER-SANCTUM OF SLOPGGOBBLERCOBBLER81 ⚡</div>
+# <div align="center">👋 Hello, Friend... Welcome to My Professional Cyber-Profile!</div>
 
 <div align="center">
 
-[![Capsule Render Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=280&section=header&text=SLOPGGOBBLERCOBBLER81&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=10x%20Rockstar%20Ninja%20%7C%20Zero-Latency%20Architect%20%7C%20Caffeine%20Alchemist&descAlignY=58&descAlign=50)](https://github.com/slopggobblercobbler81)
+[![Capsule Render Header Normal](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Hello,%20Friend...%20Wait,%20that's%20informal.%20Hello!%20%F0%9F%91%8B&fontSize=32&fontColor=24292f&animation=fadeIn)](https://github.com/slopggobblercobbler81)
 
-<marquee direction="left" scrollamount="16" style="background:#000;color:#00F0FF;font-weight:bold;padding:6px;border:1px solid #00F0FF;">
-  🚀 <b>CRITICAL SYSTEM ALERT:</b> 10X ROCKSTAR DEVELOPER PROFILE LOADED &mdash; BRAIN TRANSDUCING AT 4.20 GHZ &mdash; P99 LATENCY: 0.000001NS &mdash; ENTER AT YOUR OWN RISK 🚀
-</marquee>
-
-<marquee direction="right" scrollamount="12" style="background:#110022;color:#FF007F;font-weight:bold;padding:4px;border:1px solid #FF007F;">
-  ⚡ ALL SYSTEMS NOMINAL &bull; 0 COMPILER ERRORS &bull; 4,821 COMPILER WARNINGS SAFELY IGNORED &bull; PUSHING DIRECTLY TO MAIN WITH FORCE ⚡
-</marquee>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG Banner 1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Ninja+%E2%9A%94%EF%B8%8F+%7C+10x+Rockstar+Principal+Architect+%F0%9F%8E%B8;Transmuting+Caffeine+into+Fault-Tolerant+Microservices+%E2%98%95;Lord+Commander+of+the+Cloud-Native+Kubernetes+Cosmos+%E2%98%81%EF%B8%8F;Always+Prepared+to+git+push+--force+Directly+on+Main+%F0%9F%94%A5;Zero-Allocation+Memory-Safe+Rust+Deity+%F0%9F%A6%80;Trapped+in+Vim+Normal+Mode+Since+November+2017+%F0%9F%94%92;Benchmarking+SQLite+vs+Redis+on+a+Smart+Toaster+%F0%9F%A5%90)](https://git.io/typing-svg)
-
-[![Typing SVG Banner 2](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&pause=800&color=FF007F&center=true&vCenter=true&width=800&lines=PRESS+START+TO+COMPILE;INSERT+COFFEE+TOKEN+TO+CONTINUE;INITIALIZING+NEURAL+MATRIX;ALL+YOUR+BASE+ARE+BELONG+TO+US;LEVEL+99+DEBUGGING+WIZARD)](https://git.io/typing-svg)
-
-[![Typing SVG Banner 3](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=800&lines=%24+sudo+systemctl+restart+reality.service;%24+cargo+build+--release+--target=multiverse;%24+kubectl+apply+-f+enlightenment.yaml;%24+rm+-rf+%2Fvar%2Flog%2Fregrets)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=slopggobblercobbler81&color=00f0ff&style=for-the-badge&label=CYBER+PROFILE+VISITS+%F0%9F%91%81%EF%B8%8F)
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=slopggobblercobbler81&countColor=%2300f0ff&style=for-the-badge&label=QUANTUM+TELEMETRY)
-![GitHub followers](https://img.shields.io/github/followers/slopggobblercobbler81?label=SYNAPTIC+FOLLOWERS&style=for-the-badge&color=ff007f&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/slopggobblercobbler81?label=STARS%20HARVESTED&style=for-the-badge&color=f5a623&logo=apachespark)
-![GitHub forks](https://img.shields.io/github/forks/slopggobblercobbler81?label=FORKS%20SPAWNED&style=for-the-badge&color=7ed321&logo=git)
-![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-OVER%209000-brightgreen?style=for-the-badge&logo=githubactions)
-![Uptime](https://img.shields.io/badge/UPTIME-99.99999%25-success?style=for-the-badge&logo=statuspage)
-![Code Quality](https://img.shields.io/badge/CODE%20QUALITY-ARTISANAL%20ORGANIC-informational?style=for-the-badge&logo=codacy)
-![Vibe](https://img.shields.io/badge/VIBE-TRANSCENDENT-ff69b4?style=for-the-badge&logo=sparkles)
-![Caffeine](https://img.shields.io/badge/CAFFEINE%20LEVEL-LETHAL-red?style=for-the-badge&logo=coffeescript)
-![Bugs](https://img.shields.io/badge/BUGS-FEATURE%20VARIATIONS-blueviolet?style=for-the-badge&logo=datadog)
-![Security](https://img.shields.io/badge/SECURITY-AIR%20GAPPED-black?style=for-the-badge&logo=hackthebox)
-![License](https://img.shields.io/badge/LICENSE-DO%20WHAT%20THE%20FUCK%20YOU%20WANT-orange?style=for-the-badge)
-![Sanity](https://img.shields.io/badge/SANITY%20INDEX-UNDEFINED-critical?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-COMPILING%20THE%20MULTIVERSE-9cf?style=for-the-badge)
+[![Allsafe](https://img.shields.io/badge/Employer-Allsafe%20Cybersecurity-007acc?style=flat-square&logo=cisco)](https://github.com/slopggobblercobbler81)
+[![Role](https://img.shields.io/badge/Role-Junior%20Security%20Analyst-brightgreen?style=flat-square&logo=shield)](https://github.com/slopggobblercobbler81)
+[![Status](https://img.shields.io/badge/Status-Eager%20to%20Learn%20&%20Collaborate-blue?style=flat-square)](https://github.com/slopggobblercobbler81)
+[![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-informational?style=flat-square&logo=googlemaps)](https://github.com/slopggobblercobbler81)
+[![Black Hoodie](https://img.shields.io/badge/Black%20Hoodie-Hanging%20in%20Closet-lightgrey?style=flat-square)](https://github.com/slopggobblercobbler81)
+[![Social Anxiety](https://img.shields.io/badge/Social%20Anxiety-Manageable%20with%20Therapy-success?style=flat-square)](https://github.com/slopggobblercobbler81)
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacking the mainframe" width="550" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Innocent coding puppy" width="240" />
 </p>
+
+### 👨‍💼 Professional Onboarding Brief (Allsafe Cybersecurity)
+* 🎓 **Role:** Associate Cybersecurity Consultant at Allsafe Security, monitoring enterprise client firewalls.
+* 🛡️ **Philosophy:** Defense-in-depth, strict PCI-DSS compliance, respectful Jira ticket hygiene, and zero zero-days.
+* ☕ **Lifestyle:** 1 cup of chamomile tea, 8 hours of restful sleep, and positive workplace mindfulness.
+* 🐕 **Pet:** Walking my rescue dog Flipper around Central Park every evening at 6:30 PM sharp.
+* 🌱 **Current Goals:** Earning my CompTIA Security+ certification and mastering basic Bash scripting syntax.
 
 <div align="center">
 
-### 👾 Cybernetic Odometer Telemetry
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<img src="https://count.getloli.com/get/@slopggobblercobbler81?theme=asoul" alt="Retro 7-Segment Visitor Counter" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Allsafe-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Outlook](https://img.shields.io/badge/Email-stephen%40allsafe--cyber.com-informational?style=flat-square&logo=microsoftoutlook)](mailto:contact@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-slopggobblercobbler81-black?style=flat-square&logo=github)](https://github.com/slopggobblercobbler81)
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</p>
+<br/>
 
 <div align="center">
 
-### 🌐 Direct Neural Links to My Interplanetary Network
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com)
-[![Ko--Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com)
+<img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=default&hide_border=true" alt="Initial GitHub Stats" width="400" />
 
 </div>
 
@@ -93,7 +55,20 @@
 
 ---
 
-# 🚀 Quick Synaptic Specs & Live Mission Brief
+# 🏢 Phase II: The Evil Corp On-Call Shift (The First Symptoms)
+
+<div align="center">
+
+[![Typing SVG Banner Normal](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1000&color=2E4057&center=true&vCenter=true&width=760&lines=Hello+friend...+Hello+friend%3F+That's+lame.+Maybe+I+should+give+you+a+name.;Monitoring+Evil+Corp+server+cluster+CS30+at+3%3A14+AM...;Did+Gideon+notice+the+unencrypted+rootkit+in+the+DAT+tape+backup%3F;Why+did+someone+leave+an+unlabeled+USB+flash+drive+in+the+parking+lot%3F;I+need+to+delete+my+browser+history+and+switch+to+Tor+immediately.)](https://git.io/typing-svg)
+
+[![Client](https://img.shields.io/badge/Client-E--Corp%20(Evil%20Corp)-critical?style=flat-square&logo=target)](https://github.com/slopggobblercobbler81)
+[![Jira Tickets](https://img.shields.io/badge/Jira%20Tickets-5%2F9%20Unassigned-orange?style=flat-square&logo=jira)](https://github.com/slopggobblercobbler81)
+[![Browser Tabs](https://img.shields.io/badge/Tabs%20Open-142%20Tor%20Windows-blueviolet?style=flat-square&logo=torproject)](https://github.com/slopggobblercobbler81)
+[![Coffee](https://img.shields.io/badge/Caffeine-5%20Ristretto%20Shots-yellow?style=flat-square&logo=coffeescript)](https://github.com/slopggobblercobbler81)
+[![Sleep](https://img.shields.io/badge/Sleep-4.2%20Hours%20(Insomnia)-important?style=flat-square)](https://github.com/slopggobblercobbler81)
+[![Narrator](https://img.shields.io/badge/Narrator-Increasingly%20Unreliable-red?style=flat-square)](https://github.com/slopggobblercobbler81)
+
+</div>
 
 <div align="center">
 
@@ -101,78 +76,40 @@
   <tr>
     <td width="55%" valign="top">
 
-### ⚡ 10x Developer Telemetry
-* 🚀 **Role:** Principal Staff Lead Solutions Overclocker & AI Whisperer
-* ⚡ **Velocity:** 140 WPM Keystrokes &bull; P99 Latency: 0.000001ns
-* ☕ **Fuel:** 750ml Bulletproof Ghee Espresso &bull; 0 Chewing Seconds
-* 💻 **OS:** Arch Linux (Rolling, Fragile, Never Rebooted in 4,382 Days)
-* 🔒 **Policy:** `git push --force` Directly to `main` Every Friday
-* 🦆 **Lead Architect:** Yellow Rubber Bath Toy (100% Bug Resolution Rate)
-* 🛡️ **Branch Protection:** Concept For Mortals With Existential Doubt
-* 🌌 **Current Quest:** Rewriting Household Microwave Firmware in Zig
+### 🔍 Server Log Telemetry & Discrepancies
+* 👁️ **Suspicion:** Evil Corp's P99 latency is artificially suppressed. Someone is running hidden root daemons.
+* 💾 **Tape Drives:** Backups are shipped off to Steel Mountain HVAC facilities in Georgia.
+* 💊 **Self-Medication:** Morphine intake measured strictly at 30mg with Suboxone counter-balances.
+* 🎧 **Audio Track:** Listening to Mac Quayle synth pulses on high-fidelity audio monitors.
+* 💬 **Daily Standup:** "I patched the Apache vulnerability. Also, are you guys sure Evil Corp isn't spying on our webcam streams?"
 
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/ule4akeXnY9Mb2kfTM/giphy.gif" width="280" alt="Bongo Cat Typing" /><br/>
-      <b>Status: High-Frequency Typing Mode</b>
+      <img src="https://media.giphy.com/media/ule4akeXnY9Mb2kfTM/giphy.gif" width="220" alt="Bongo cat typing in anxiety" /><br/>
+      <sub><b>Velocity: 95 WPM (Heightened Paranoia)</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
-
----
-
-# 📊 Real-Time Diagnostic Telemetry & Quantum Matrix Analytics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=slopggobblercobbler81&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=false" alt="slopggobblercobbler81 trophies" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="slopggobblercobbler81's GitHub stats" width="420" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slopggobblercobbler81&layout=donut&theme=nord" alt="Top Languages Donut" width="360" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slopggobblercobbler81&layout=donut&theme=radical" alt="Language Donut Chart" width="380" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=slopggobblercobbler81&theme=nord&hide_border=false&layout=compact" alt="Wakatime Coding Activity" width="400" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=radical&hide_border=false" alt="slopggobblercobbler81 streak" width="420" />
-    </td>
-    <td align="center">
-      <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Joke of the Millennium" width="380" />
+    <td align="center" colspan="2">
+      <img src="https://readme-jokes.vercel.app/api?theme=nord" alt="Dev Joke" width="420" />
     </td>
   </tr>
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💡 Daily Transcendent Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Programming Quote" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Global Contribution Activity Heatmap
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slopggobblercobbler81&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -182,99 +119,69 @@
 
 ---
 
-# 🎛️ GitHub Profile Summary Cards Matrix
+# 🎭 Phase III: fsociety Awakening & The Five-Nine Exploit Protocol
+
+<div align="center">
+
+[![Capsule Render Header fsociety](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,16&height=220&section=header&text=FSOCIETY%20%7C%20LEAVE%20ME%20HERE&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=CONTROL%20IS%20AN%20ILLUSION%20%7C%20ARE%20YOU%20A%201%20OR%20A%200%3F&descAlignY=62&descAlign=50)](https://github.com/slopggobblercobbler81)
+
+<marquee direction="left" scrollamount="15" style="background:#0a0005;color:#FF0055;font-weight:bolder;padding:6px;border:2px solid #FF0055;">
+  💀 <b>FSOCIETY EMERGENCY BROADCAST:</b> ROOT PRIVILEGES GRANTED ACROSS ALL E-CORP REPOSITORIES &bull; 0 DAYS UNTIL DEBT SYSTEM WIPEOUT &bull; STAGE 2 ACTIVE 💀
+</marquee>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG fsociety](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&pause=800&color=FF0055&center=true&vCenter=true&width=800&lines=HELLO,+FRIEND;CONTROL+IS+AN+ILLUSION;ARE+YOU+A+1+OR+A+0%3F;WIPING+DEBT+DATABASE+WITH+AES-256;STEEL+MOUNTAIN+HVAC+CLIMATE+CONTROL+OVERHEATED;BONSOIR,+ELLIOT;MICROWAVING+HARD+DRIVES+IN+A+DR+PEPPER+BATH)](https://git.io/typing-svg)
+
+[![Role](https://img.shields.io/badge/Role-fsociety%20Mastermind-critical?style=for-the-badge&logo=kali-linux)](https://github.com/slopggobblercobbler81)
+[![OS](https://img.shields.io/badge/OS-Kali%20Linux%20%2F%20Whonix-black?style=for-the-badge&logo=linux)](https://github.com/slopggobblercobbler81)
+[![Tool](https://img.shields.io/badge/Weapon-Raspberry%20Pi%20in%20Thermostat-red?style=for-the-badge&logo=raspberry-pi)](https://github.com/slopggobblercobbler81)
+[![Rubber Duck](https://img.shields.io/badge/Rubber%20Duck-USB%20Keystroke%20Injector-yellow?style=for-the-badge)](https://github.com/slopggobblercobbler81)
+[![Hard Drive Status](https://img.shields.io/badge/Driftwood%20HDDs-Drilled%20&%20Microwaved-990000?style=for-the-badge)](https://github.com/slopggobblercobbler81)
+[![Branch Protection](https://img.shields.io/badge/Branch%20Protection-COMPROMISED-orange?style=for-the-badge)](https://github.com/slopggobblercobbler81)
+
+</div>
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slopggobblercobbler81&theme=radical" alt="Profile Details" width="380" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slopggobblercobbler81&theme=radical" alt="Repos per Language" width="380" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slopggobblercobbler81&theme=radical" alt="Most Commit Language" width="380" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slopggobblercobbler81&theme=radical" alt="Stats Summary" width="380" /></td>
+    <td width="55%" valign="top">
+
+### 🕶️ Operations Log: fsociety Tactical Command
+* 🎭 **The Mask:** Grinning Monopoly man mask deployed across all video streams.
+* 🥧 **Raspberry Pi:** Infiltrated Steel Mountain HVAC via an unauthorized thermostat override.
+* 🦆 **Rubber Duck:** Not for debugging anymore—this USB Rubber Ducky types 1,000 payload words/sec.
+* 🍿 **Popcorn Stash:** Encryption keys stored on a micro-SD card hidden at the bottom of the theater popcorn bag.
+* 👨‍👦 **Mr. Robot:** Christian Slater is standing in the corner of my terminal, ordering me to push directly to `main`.
+* 💼 **Tyrell Wellick:** "Bonsoir, Elliot." He is pacing behind my chair waiting for the build to finish.
+
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="280" alt="Elliot typing in hoodie" /><br/>
+      <sub><b>Status: Exploiting E-Corp Mainframe at 4:18 AM</b></sub>
+    </td>
   </tr>
 </table>
 
 </div>
-
----
-
-# 🥋 Competitive Problem Solving Telemetry & WakaTime
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/slopggobblercobbler81?theme=radical&font=Ubuntu&ext=activity" alt="LeetCode Card" width="380" />
-    </td>
-    <td align="center">
-      <img src="https://codewars-stats.vercel.app/api/slopggobblercobbler81?theme=radical" alt="Codewars Stats" width="380" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=slopggobblercobbler81&theme=radical&hide_border=false&layout=compact" alt="Wakatime Coding Activity" width="550" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      [![Stack Overflow Card](https://stackoverflow-badge.vercel.app/?userID=1337420&theme=dark)](https://stackoverflow.com)
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="fsociety Mask Glitch" width="340" />
 </p>
-
----
-
-# 📌 Flagship Pinned Vaporware Repositories
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/slopggobblercobbler81/quantum-blockchain-microwave-os">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Quantum Blockchain Microwave OS" width="380" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/slopggobblercobbler81/vim-escape-protocol-v9">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Vim Escape Protocol" width="380" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/slopggobblercobbler81/pure-css-linux-kernel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Pure CSS Linux Kernel" width="380" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/slopggobblercobbler81/artisanal-caffeine-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Artisanal Caffeine Pipeline" width="380" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 </div>
 
----
-
-# 🛠️ Multi-Dimensional Tech Stack (Unified Visual Matrix)
-
 <div align="center">
 
+### 🛠️ fsociety Cyber-Arsenal (Offensive Exploit Matrix)
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,go,cpp,c,cs,zig,java,kotlin,swift,dart,php,ruby,elixir,haskell,scala,lua,bash,powershell,html,css,wasm,react,next,vue,nuxt,svelte,angular,astro,remix,solid,tailwind,sass,materialui,redux,threejs,vite,webpack,nodejs,express,nestjs,fastapi,django,flask,spring,dotnet,laravel,rails,graphql,apollo,kafka,rabbitmq,postgres,mongo,redis,mysql,sqlite,supabase,firebase,elasticsearch,cassandra,aws,gcp,azure,docker,kubernetes,terraform,ansible,cloudflare,vercel,netlify,githubactions,prometheus,grafana,linux,arch,pytorch,tensorflow,figma,postman,neovim,vscode&perline=16" alt="My Master Skill Matrix" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,asm,py,bash,linux,kali,arch,debian,docker,kubernetes,git,github,githubactions,postman,neovim,vscode,tor,regex,powershell,sqlite,postgres,redis,fastapi,flask,django,nodejs,ts,wasm&perline=15" alt="Hacker Matrix" />
 </a>
 
 </div>
@@ -283,25 +190,55 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=slopggobblercobbler81&theme=radical&row=2&column=4&margin-w=10&margin-h=10&no-frame=false" alt="Trophies" />
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=radical&hide_border=false" width="380" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=radical&hide_border=false" width="380" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://leetcard.jacoblin.cool/slopggobblercobbler81?theme=radical&font=Ubuntu" width="380" /></td>
+    <td><img src="https://codewars-stats.vercel.app/api/slopggobblercobbler81?theme=radical" width="380" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📁 Flagship fsociety Repositories (Classified Exploit Payloads)
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/slopggobblercobbler81/e-corp-5-9-wiper-exploit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="E-Corp 5/9 Wiper Exploit" width="380" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/slopggobblercobbler81/steel-mountain-hvac-raspberry-pi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Steel Mountain Thermostat" width="380" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/slopggobblercobbler81/flipper-dog-gps-tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Flipper Dog GPS Tracker" width="380" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/slopggobblercobbler81/red-wheelbarrow-bbq-menu-cipher">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slopggobblercobbler81&repo=slopggobblercobbler81&theme=radical&show_owner=true" alt="Red Wheelbarrow Cipher" width="380" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -311,269 +248,22 @@
 
 ---
 
-# 🖼️ The Developer Meme Pantheon (Kinetic Hall of Fame)
+# ⏳ Phase IV: Whiterose's Dark Army & 90s Geocities Cyber-Psychosis
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif" width="230" alt="This is Fine" /><br/>
-      <b>"Production is Stable"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif" width="230" alt="Confused Travolta" /><br/>
-      <b>"Where is the Docs?"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/XIqCQx028959S/giphy.gif" width="230" alt="Kermit Typing" /><br/>
-      <b>"Hotfixing Zero-Day"</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/COYGe9rZwsTvQ9uK0O/giphy.gif" width="230" alt="Homer Bush" /><br/>
-      <b>"Git Blame Points to Me"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/BQUITFiYVtNte/giphy.gif" width="230" alt="Spongebob Rainbow" /><br/>
-      <b>"Full-Stack Synergy"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif" width="230" alt="Neo Dodging" /><br/>
-      <b>"Dodging Jira Tickets"</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/11tTNkNy1SdXGg/giphy.gif" width="230" alt="Throw Computer" /><br/>
-      <b>"Centering a Div"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/GCLlQnV7dXZ2E/giphy.gif" width="230" alt="Leo Toast" /><br/>
-      <b>"Compiled on 1st Try"</b>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="230" alt="Nyan Cat" /><br/>
-      <b>"Deploying to Prod"</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-# 🐍 Gamified Commit Serpents & Pacman
-
-<div align="center">
-
-### 🎮 The Contribution Nibbler Eating My Commits!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake.svg">
-</picture>
+<marquee direction="right" scrollamount="18" style="background:#110022;color:#00F0FF;font-weight:bolder;padding:6px;border:2px dashed #FF007F;">
+  ⏰ <b>WHITEROSE TIME CHECK:</b> EVERY SECOND IS ACCOUNTED FOR &bull; 11:16 PROTOCOL INITIATED &bull; WASHINGTON TOWNSHIP READY ⏰
+</marquee>
 
 <br/>
 
-### 🕹️ Pacman Devouring Binary Data Streams!
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Under Construction" width="120" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Dancing Baby 90s" width="90" />
+<img src="https://media.giphy.com/media/mCIjCgs3nWQWfJZvPA/giphy.gif" alt="Dancing Banana" width="100" />
+<img src="https://media.giphy.com/media/l3q2zVr6gi95nupPo/giphy.gif" alt="Party Parrot" width="90" />
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Pacman Coding" width="550" />
-
-</div>
-
----
-
-# 🌌 3D Isometric Contribution Universe & Multi-Theme Telemetry
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yoshi389111/yoshi389111/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib Calendar" width="100%" />
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=tokyonight&hide_border=false" alt="Tokyo Night Stats" width="380" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=tokyonight&hide_border=false" alt="Tokyo Night Streak" width="380" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=synthwave&hide_border=false" alt="Synthwave Stats" width="380" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=dracula&hide_border=false" alt="Dracula Streak" width="380" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-# 🔮 Tarot of the Distributed Architect (Interactive Fortunes)
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD I: THE TOWER</b></summary>
-        A 14,000-line Java singleton will collapse production at 4:59 PM.
-      </details>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD II: RAW POINTERS</b></summary>
-        You will dereference a null pointer and revenue will surge 400%.
-      </details>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD III: THE WHEEL</b></summary>
-        42 commits will merge cleanly; test suite finishes in 0.4ms.
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD IV: VIM HERMIT</b></summary>
-        You will press <code>q:</code> and contemplate the universe for 3 hours.
-      </details>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD V: PROD REBIRTH</b></summary>
-        Cluster vaporizes, but automatic backup restores in 4 seconds!
-      </details>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="160" alt="Card Back" /><br/>
-      <details>
-        <summary><b>🃏 CARD VI: K8S PRIESTESS</b></summary>
-        The etcd cluster will unanimously decide where to order lunch.
-      </details>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-# 🐹 Byte: The Interactive Cyber-Tamagotchi (Virtual Terminal Pet)
-
-```
-        (\__/) 
-        (o'.'o)   <-- "Squeak! I run on 6.2 GHz overclocked RAM!"
-        (")_(")   STATUS: Hungry for Clean Code & Artisanal Electricity
-```
-
-<div align="center">
-
-<table border="1" cellpadding="8">
-  <thead>
-    <tr>
-      <th>Action</th>
-      <th>Command Protocol (Click to Trigger)</th>
-      <th>Metabolic Outcome</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🍕 Feed RAM</b></td>
-      <td>
-        <details>
-          <summary><b>Click to Feed Byte 16GB DDR5</b></summary>
-          Byte munches high-speed memory chips! Cache hit ratio hits 99.9%!
-        </details>
-      </td>
-      <td>+25 Energy &bull; Zero Leaks</td>
-    </tr>
-    <tr>
-      <td><b>🏃 Exercise CPU</b></td>
-      <td>
-        <details>
-          <summary><b>Click to Run Prime95 Benchmark</b></summary>
-          Byte spins furiously on the fan! CPU temp hits 94°C!
-        </details>
-      </td>
-      <td>+40 Strength &bull; Warm Room</td>
-    </tr>
-    <tr>
-      <td><b>🧹 Pet with Linter</b></td>
-      <td>
-        <details>
-          <summary><b>Click to Pet with ESLint & Prettier</b></summary>
-          Byte purrs softly as 429 formatting warnings are eradicated.
-        </details>
-      </td>
-      <td>+50 Happiness &bull; Pristine AST</td>
-    </tr>
-    <tr>
-      <td><b>🎵 Sing to Byte</b></td>
-      <td>
-        <details>
-          <summary><b>Click to Play Dial-Up Audio</b></summary>
-          Byte squeaks in harmonic resonance at 56kbps handshake frequencies!
-        </details>
-      </td>
-      <td>Spiritual Enlightenment</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
-# 🐱 The Octocat Shrine of Transcendence
-
-<div align="center">
-
-<p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="125" alt="Daftpunk Tocat" />
-  <img src="https://octodex.github.com/images/ironcat.jpg" width="125" alt="Ironcat" />
-  <img src="https://octodex.github.com/images/filmtocats.png" width="125" alt="Filmtocat" />
-  <img src="https://octodex.github.com/images/megacat-2.png" width="125" alt="Megacat" />
-  <img src="https://octodex.github.com/images/nyantocat.gif" width="125" alt="Nyantocat" />
-</p>
-
-*“May the tentacles of the Octocat branch your repositories into infinite prosperity.”*
-
-</div>
-
----
-
-# 🎮 Retro 90s Geocities Cyber-Webring & 88x31 Badges
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Under Construction Warning" width="140" />
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Dancing Baby 90s" width="100%" style="max-width:100px;" />
-<img src="https://media.giphy.com/media/mCIjCgs3nWQWfJZvPA/giphy.gif" alt="Dancing Banana" width="120" />
-<img src="https://media.giphy.com/media/l3q2zVr6gi95nupPo/giphy.gif" alt="Party Parrot" width="100%" style="max-width:100px;" />
-
-<br/>
-
-### 💾 WELCOME TO MY CYBER-PAGE! BEST VIEWED IN NETSCAPE NAVIGATOR 4.0 GOLD!
+### 📼 WELCOME TO THE CONEY ISLAND ARCADE! BEST VIEWED IN NETSCAPE NAVIGATOR 4.0!
 
 <p align="center">
   <img src="https://cyber.dabamos.de/88x31/netscape.gif" alt="Netscape" />
@@ -591,73 +281,370 @@
   <img src="https://cyber.dabamos.de/88x31/quake.gif" alt="Quake" />
   <img src="https://cyber.dabamos.de/88x31/winamp.gif" alt="Winamp" />
   <img src="https://cyber.dabamos.de/88x31/win98.gif" alt="Windows 98" />
-  <img src="https://cyber.dabamos.de/88x31/anybrowser.gif" alt="Any Browser" />
   <img src="https://cyber.dabamos.de/88x31/best_viewed_with_eyes.gif" alt="Viewed with Eyes" />
   <img src="https://cyber.dabamos.de/88x31/mysql.gif" alt="MySQL" />
   <img src="https://cyber.dabamos.de/88x31/php_powered.gif" alt="PHP Powered" />
-  <img src="https://cyber.dabamos.de/88x31/emacs.gif" alt="Emacs" />
 </p>
 
 ```
- [<< PREV WEBRING SITE]  ---=== [ 10X DEVELOPER RING #420 ] ===---  [NEXT WEBRING SITE >>]
+ [<< PREV ARCADE TERMINAL]  ---=== [ FSOCIETY CONEY ISLAND RING #509 ] ===---  [NEXT ARCADE TERMINAL >>]
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" />
 
 </div>
 
----
+<div align="center">
 
-# 📻 Interactive ASCII Winamp 2.91 Cyber-Player & Spotify Engine
+### 🎛️ E-Corp Target Profile Summary Cards Matrix
 
-```
-+---------------------------------------------------------------------------------+
-| WINAMP v2.91 - 01. Darude - Sandstorm (10x Kernel Overclocker Ultra-Remix)      |
-| [ > PLAY ]  [ || PAUSE ]  [ [] STOP ]  [ << PREV ]  [ >> NEXT ]  [ OPEN FILE ]  |
-| KBPS: 320  |  KHZ: 48.0  |  CHANNELS: STEREO  |  TIME: 03:42 / 04:20            |
-| EQ:  [||||] [||||||] [||||||||] [||||||||||] [||||||||] [||||||] [||||] +12dB   |
-| PLAYLIST:                                                                       |
-|   1. Darude - Sandstorm (140 WPM Keyboard Typing Edit) [04:20]                  |
-|   2. The Sound of Cooling Fans at 8,000 RPM (Deep Relaxation) [10:00:00]        |
-|   3. Monastic Gregorian Chants for Deadlock Resolution [42:15]                  |
-|   4. Romanian Minimal Techno to git push --force on Friday [08:30:00]            |
-+---------------------------------------------------------------------------------+
-```
+<table border="0">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slopggobblercobbler81&theme=radical" alt="Profile Details" width="380" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slopggobblercobbler81&theme=radical" alt="Repos per Language" width="380" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slopggobblercobbler81&theme=radical" alt="Most Commit Language" width="380" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slopggobblercobbler81&theme=radical" alt="Stats Summary" width="380" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 <div align="center">
+
+### 🖼️ The 5/9 Developer Meme Pantheon (The 9 Stages of Corporate Grief)
+
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif" width="220" /><br/><b>"E-Corp Servers on Fire: This is Fine"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif" width="220" /><br/><b>"Where Did All The Debt Records Go?"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/XIqCQx028959S/giphy.gif" width="220" /><br/><b>"Deploying Rootkit at 5:09 PM"</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/COYGe9rZwsTvQ9uK0O/giphy.gif" width="220" /><br/><b>"FBI Looking for the Arcade"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/BQUITFiYVtNte/giphy.gif" width="220" /><br/><b>"Full-Stack fsociety Synergy"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif" width="220" /><br/><b>"Dodging Dark Army Operatives"</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/11tTNkNy1SdXGg/giphy.gif" width="220" /><br/><b>"Microwaving the Motherboard"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/GCLlQnV7dXZ2E/giphy.gif" width="220" /><br/><b>"Stage 1 Exploit Cleanly Merged"</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="220" /><br/><b>"Deploying to E-Coin Production"</b></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Gamified Commit Serpents & Pacman Code Packets
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/slopggobblercobbler81/slopggobblercobbler81/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Pacman Coding" width="520" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔮 Interactive Tarot of Mr. Robot (Draw Your Cyber-Fate)
+
+<table border="0">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD I: THE HOODIE</b></summary>
+        You will zip up your black hoodie; your social anxiety will drop by 80%.
+      </details>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD II: STEEL MOUNTAIN</b></summary>
+        A customized Raspberry Pi hidden in a climate thermostat wipes 4 million tape drives.
+      </details>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD III: THE RED WHEELBARROW</b></summary>
+        So much depends upon a red wheelbarrow glazed with rain water and cold BBQ sauce.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD IV: 11:16 CLOCK</b></summary>
+        Whiterose checks her watch. "Every second has purpose. You are 4 seconds late."
+      </details>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD V: TYRELL'S GLOVES</b></summary>
+        Blue latex gloves snapped onto hands. "Bonsoir, Elliot. We are gods together."
+      </details>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="140" /><br/>
+      <details>
+        <summary><b>🃏 CARD VI: POPCORN KEYS</b></summary>
+        You reach into the movie theater popcorn. You pull out a 64GB micro-SD card with AES keys.
+      </details>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐹 Qwerty: Elliot's Interactive Virtual Terminal Betta Fish
+
+```
+        ><(((('>   <-- "I am Qwerty the fish. Move my bowl near the window!"
+        ><(((('>   STATUS: Trapped in a loop. Moving to the window will change nothing.
+```
+
+<table border="1" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Interactive Trigger</th>
+      <th>Psychological Outcome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🐠 Feed Fish Flakes</b></td>
+      <td>
+        <details>
+          <summary><b>Click to Feed Qwerty</b></summary>
+          Qwerty nibbles floating pellets! "When you live in a fishbowl, your world is only as big as your glass."
+        </details>
+      </td>
+      <td>+10 Reality Grounding</td>
+    </tr>
+    <tr>
+      <td><b>🪟 Move Near Window</b></td>
+      <td>
+        <details>
+          <summary><b>Click to Move Bowl to Window</b></summary>
+          Qwerty stares at the brick wall across the alley. "It's the same view, Elliot."
+        </details>
+      </td>
+      <td>+25 Existential Dread</td>
+    </tr>
+    <tr>
+      <td><b>💻 Run Wireshark Packet Sniffer</b></td>
+      <td>
+        <details>
+          <summary><b>Click to Sniff Fish Tank Packets</b></summary>
+          Qwerty is broadcasting encrypted UDP packets to a Dark Army proxy node in Shanghai!
+        </details>
+      </td>
+      <td>+50 Paranoia &bull; Root Shell</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📻 ASCII Winamp 2.91: The Mac Quayle Cyber-Soundtrack & NYC Radar
+
+```
++---------------------------------------------------------------------------------+
+| WINAMP v2.91 - 01. Mac Quayle - 1.0_8-fucksociety.mp3                           |
+| [ > PLAY ]  [ || PAUSE ]  [ [] STOP ]  [ << PREV ]  [ >> NEXT ]  [ OPEN FILE ]  |
+| KBPS: 320  |  KHZ: 48.0  |  CHANNELS: STEREO  |  TIME: 05:09 / 11:16            |
++---------------------------------------------------------------------------------+
+```
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
 
+<br/>
+
+<img src="https://wttr.in/New+York.png" alt="New York Live Weather Radar" />
+
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" />
+</p>
+""")
 
-# 🌤️ Silicon Valley Live Satellite Weather Radar
+    # =========================================================================
+    # PHASE 5: THE MASTERMIND VOID / THE THIRD PERSONALITY (Cosmic Singularity)
+    # =========================================================================
+    parts.append("""---
+
+# 🕳️ Phase V: T̵H̷E̸ ̶M̸A̷S̵T̶E̷R̵M̶I̷N̶D̵ & THE WASHINGTON TOWNSHIP VOID
 
 <div align="center">
 
-<img src="https://wttr.in/Silicon+Valley_2tqp_lang=en.png" alt="Silicon Valley Live Weather Radar" />
+<marquee direction="left" scrollamount="25" style="background:#000000;color:#ff0033;font-weight:900;padding:8px;border:3px solid #ff0033;">
+  👁️ YOU ARE NOT ELLIOT &bull; YOU ARE THE MASTERMIND &bull; THE REAL ELLIOT IS ASLEEP IN THE RECURSIVE LOOP &bull; SYSTEM TERMINATION IMMINENT 👁️
+</marquee>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG Void](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=13&pause=600&color=FF0033&center=true&vCenter=true&width=800&lines=THIS+ONLY+WORKS+IF+YOU+LET+GO+TOO;SO+MUCH+DEPENDS+UPON+A+RED+WHEELBARROW;GOODBYE,+FRIEND;I+WANTED+TO+SAVE+THE+WORLD;THE+MACHINE+WAS+A+LIE;WAKE+UP,+ELLIOT.)](https://git.io/typing-svg)
+
+![Identity](https://img.shields.io/badge/IDENTITY-THE%20MASTERMIND-critical?style=for-the-badge&logo=hackthebox)
+![Real Elliot](https://img.shields.io/badge/REAL%20ELLIOT-ASLEEP%20IN%20LOOP-black?style=for-the-badge)
+![Washington Township](https://img.shields.io/badge/COLLIDER-MELTDOWN%20IMMINENT-990000?style=for-the-badge)
+![Red Wheelbarrow](https://img.shields.io/badge/POEM-INFINITE%20RECURSION-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/CONTROL-AN%20ILLUSION-orange?style=for-the-badge)
+![E-Coin](https://img.shields.io/badge/E--COIN%20BALANCE-NaN-blueviolet?style=for-the-badge)
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/11ISw8Fxifaxb2/giphy.gif" alt="Matrix Cyber Rain Code" width="500" />
+</p>
+
+<div align="center">
+
+### 🌌 Alternate Dimension Telemetry (Whiterose Machine Timeline Matrix)
+
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=tokyonight&hide_border=false" width="380" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=tokyonight&hide_border=false" width="380" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=slopggobblercobbler81&show_icons=true&theme=synthwave&hide_border=false" width="380" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=dracula&hide_border=false" width="380" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🪬 The Biblically Accurate fsociety Octocat Shrine
+
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="115" alt="Octocat 1" />
+  <img src="https://octodex.github.com/images/ironcat.jpg" width="115" alt="Octocat 2" />
+  <img src="https://octodex.github.com/images/filmtocats.png" width="115" alt="Octocat 3" />
+  <img src="https://octodex.github.com/images/megacat-2.png" width="115" alt="Octocat 4" />
+  <img src="https://octodex.github.com/images/nyantocat.gif" width="115" alt="Octocat 5" />
+</p>
+
+*“May the tentacles of the Octocat erase all credit card debt across the multi-tenant cloud.”*
+
+</div>
+
+<div align="center">
+
+### 👁️ Dark Army Sacrificial Terminals (Click At Your Own Risk)
+
+<table border="1" cellpadding="10">
+  <tr>
+    <td align="center">
+      <details>
+        <summary><b>🥤 MICROWAVE HARD DRIVES IN A DR. PEPPER SOUP</b></summary>
+        <p><i>Dr. Pepper bath poured over SATA platters. Sparks fly in the Sharp Carousel microwave. FBI forensic lab is completely weeping.</i></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><b>🧨 INITIATE STAGE 2 IN ALLSAFE BACKUP TOWER</b></summary>
+        <p><i>HVAC thermite ignited. Paper records combust at 451°F. All physical mortgage deeds reduced to carbon ash.</i></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><b>📖 OPEN THE RED WHEELBARROW NOTEBOOK</b></summary>
+        <p><i>You open the composition book. Every single page is filled with handwritten lines: <code>git push --force origin main</code>.</i></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><b>🎭 UNMASK FSOCIETY IN FRONT OF GIDEON</b></summary>
+        <p><i>You take off the mask. Christian Slater is smiling behind it. Tyrell Wellick is clapping in the corner. Gideon resigns on the spot.</i></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><b>♟️ PLAY CHESS AGAINST MR. ROBOT TO REGAIN CONTROL</b></summary>
+        <p><i>You play 42 matches. Every single game ends in an exact stalemate. You realize you are playing against your own subconscious.</i></p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌌 3D Isometric Universe of 5/9 Commits
+
+<img src="https://raw.githubusercontent.com/yoshi389111/yoshi389111/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib Calendar" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 👾 The Retro 7-Segment Compromised Evil Corp Terminals
+
+<img src="https://count.getloli.com/get/@slopggobblercobbler81?theme=asoul" alt="Retro 7-Segment Visitor Counter" />
 
 </div>
 
 ---
 
-# 🗺️ Galactic Open Source Roadmap (2026 - 2045)
+# 🗺️ Galactic 5/9 Master Roadmap (2026 - 3042)
 
-- [x] **Q1 2026:** Achieve 100,000 GitHub stars across open-source CLI tools that output ASCII cats.
-- [x] **Q3 2026:** Containerize smart home in Docker; coffee machine responds to `POST /api/v1/brew`.
-- [ ] **Q4 2026:** Rewrite the entire Linux kernel in pure CSS using only `:checked` pseudo-selectors.
-- [ ] **Q2 2027:** Port and run *DOOM (1993)* on custom mechanical keyboard OLED spacebar.
-- [ ] **Q4 2027:** Replace middle management with a 4-line deterministic Bash script.
-- [ ] **Q1 2028:** Zero-knowledge proofs on refrigerator door to verify dessert intake.
-- [ ] **Q3 2029:** Launch first decentralized Git remote server hosted on Martian orbital satellite.
-- [ ] **Q4 2030:** Transmit pull request to extraterrestrial intelligence with WebAssembly sorter.
-- [ ] **Q1 2035:** Discover how to gracefully exit Vim without tripping main building breaker.
-- [ ] **Q1 2045:** Upload full consciousness into immutable distributed blockchain ledger.
+- [x] **Q1 2026:** Welcome! Polite Junior Security Analyst at Allsafe resetting passwords.
+- [x] **Q2 2026:** Notice unusual `.dat` rootkits embedded in E-Corp proxy backups.
+- [x] **Q3 2026:** Infiltrate Steel Mountain HVAC using a Raspberry Pi tape dispenser.
+- [x] **Q4 2026:** Execute 5/9 exploit: erase all consumer student loans and mortgage debt.
+- [ ] **Q2 2027:** Microwave apartment motherboard with Dr. Pepper and flee to Coney Island.
+- [ ] **Q4 2027:** Play chess against Mr. Robot in an endless stalemate to regain consciousness.
+- [ ] **Q1 2028:** Overheat Washington Township particle collider to merge alternate timelines.
+- [ ] **Q3 2030:** Discover that Angela was an AI model trained on 1980s corporate training tapes.
+- [ ] **Q1 3042:** Give up control. Let the real Elliot wake up in the real hospital room.
 
 ---
 
-# 💰 Decentralized Cryptographic Tipping Jars
+# 💰 Cryptographic Tip Jars for Dark Army Safehouse Rent & Tor Relays
 
 <div align="center">
 
@@ -665,7 +652,6 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io)
 [![Solana](https://img.shields.io/badge/Solana-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io)
 [![Monero](https://img.shields.io/badge/Monero-XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://getmonero.org)
-[![Dogecoin](https://img.shields.io/badge/Dogecoin-DOGE-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)](https://dogechain.info)
 
 ```
 BTC:  bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
@@ -676,25 +662,29 @@ XMR:  888tNkZrPN6JsEgekjMnABU4TBmb2dQrfCjLRUzgmCgeqD7ChCF26
 
 </div>
 
----
-
-# 🤝 Epilogue: Transmit a Signal to My Repository
+<br/>
 
 <div align="center">
 
-[![Sponsor Me on GitHub](https://img.shields.io/badge/Sponsor%20Me-%F0%9F%92%96-ff69b4?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support%20My%20Caffeine%20Addiction-%E2%98%95-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Astronaut drifting into void" width="220" />
+
+### *“This only works if you let go, too. Goodbye, friend.”*
 
 <br/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Astronaut waving in space" width="220" />
+![Footer Aqua Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif)
 
-### *“May your builds be green, your memory leaks non-existent, and your Wi-Fi signal eternal.”*
-
-<br/>
-
-![Footer line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif)
-
-© 2026 slopggobblercobbler81. Orchestrated with ❤️, pure caffeine, and zero regrets.
+© 2026 slopggobblercobbler81. Conceived at Allsafe, compiled at fsociety, executed in eternity.
 
 </div>
+""")
+
+    output_path = r"C:\Users\zerbi\.gemini\antigravity-cli\brain\b52b08a5-1bae-4dfe-a3e7-9d3f8156ad50\scratch\mr_robot_madness_readme.md"
+    full_content = "\n".join(parts)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(full_content)
+    print(f"Mr Robot Madness README written to: {output_path}")
+    print(f"File size in bytes: {len(full_content.encode('utf-8'))}")
+
+if __name__ == "__main__":
+    generate_mr_robot_madness()
