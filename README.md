@@ -648,10 +648,7 @@
 
 <div align="center">
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://blockchain.info)
-[![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io)
-[![Solana](https://img.shields.io/badge/Solana-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io)
-[![Monero](https://img.shields.io/badge/Monero-XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://getmonero.org)
+
 
 ```
 BTC:  bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
