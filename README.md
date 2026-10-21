@@ -7,7 +7,7 @@
 [![Employer](https://img.shields.io/badge/Employer-Allsafe%20Cybersecurity-007acc?style=flat-square&logo=cisco)](https://github.com/slopggobblercobbler81)
 [![Degree](https://img.shields.io/badge/Degree-B.Sc.%20Systems%20%26%20Cryptography%20@%20TUM-critical?style=flat-square&logo=academia)](https://github.com/slopggobblercobbler81)
 [![OS](https://img.shields.io/badge/OS-Arch%20Linux%20%2F%2F%20FreeBSD%2011.4-blueviolet?style=flat-square&logo=archlinux)](https://github.com/slopggobblercobbler81)
-[![Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20(x2)%20•%20Quickdraw%20•%20YOLO-7952b3?style=flat-square&logo=github)](https://github.com/slopggobblercobbler81?tab=achievements)
+[![Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20(x2)%20%E2%80%A2%20Quickdraw%20%E2%80%A2%20YOLO-7952b3?style=flat-square&logo=github)](https://github.com/slopggobblercobbler81?tab=achievements)
 [![AnyPS5](https://img.shields.io/badge/Contributed-AnyPS5%20Core%20Squad-00c853?style=flat-square&logo=playstation)](https://github.com/boykopovar/AnyPS5)
 [![Tor](https://img.shields.io/badge/Tor%20Daemon-Active-success?style=flat-square&logo=torproject)](https://github.com/slopggobblercobbler81)
 
@@ -86,12 +86,14 @@ I engineer strict, zero-dependency developer guardrails, schema checkers, and CL
 - [`repo-hygiene-cli`](https://github.com/slopggobblercobbler81/repo-hygiene-cli) — GitHub repository health auditor for README, LICENSE, CI actions, and branch hygiene.
 - [`ts-alias-resolver`](https://github.com/slopggobblercobbler81/ts-alias-resolver) — High-performance TypeScript path alias resolver and `tsconfig` compiler options auditor.
 - [`glob-sentinel-cli`](https://github.com/slopggobblercobbler81/glob-sentinel-cli) — Fast file glob pattern validator and traversal path security auditor.
+- [`slopggobblercobbler81`](https://github.com/slopggobblercobbler81/slopggobblercobbler81) — Special GitHub developer profile showcase, real-time telemetry dashboard & workflow portfolio.
 
 ---
 
 ### 🚀 Key Upstream Open-Source Contributions
 
-- [`boykopovar/AnyPS5`](https://github.com/boykopovar/AnyPS5) — High-assurance C++20 contributions to PS5 executable relinking, bounds validation, and FreeBSD 11.4 POSIX compliance for `libkernel` / `libkernel_sys` socket and descriptor check orders.
+- [`boykopovar/AnyPS5`](https://github.com/boykopovar/AnyPS5) — High-assurance C++20 contributions to PS5 executable relinking, bounds validation, and FreeBSD 11.4 POSIX compliance for `libkernel` / `libkernel_sys`.
+  - **Active Work:** [PR #8742 (`feat(libkernel): implement setpgid and setpgrp`)](https://github.com/boykopovar/AnyPS5/pull/8742) — Implementing FreeBSD 11.4 process group syscall parity (`sys_setpgid` / `sys_setpgrp`), actively refining session leader (`SESS_LEADER`) `EPERM` check ordering and zero inline comment policy per reviewer specifications.
 - [`martinkozle/excaliagent`](https://github.com/martinkozle/excaliagent) — Spatial Excalidraw board bundle optimization, CDN font delivery, and package lightweighting.
 - [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) — Minimalist Japanese learning platform dataset expansions and localized proverb additions.
 
