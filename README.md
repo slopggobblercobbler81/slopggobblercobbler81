@@ -99,6 +99,20 @@ I engineer strict, zero-dependency developer guardrails, schema checkers, and CL
 
 ---
 
+### 🧭 Companion Open-Source Developer Tools & Ecosystem
+
+In building and maintaining rigorous CI/CD linters and security utilities, I actively test, star, and integrate with premier companion open-source developer tooling across the ecosystem:
+
+| Ecosystem Category | Key Companion Tools | Integration & Cross-Reference |
+| :--- | :--- | :--- |
+| **Linting & Code Hardening** | [`astral-sh/ruff`](https://github.com/astral-sh/ruff) • [`astral-sh/uv`](https://github.com/astral-sh/uv) • [`hadolint/hadolint`](https://github.com/hadolint/hadolint) • [`sqlfluff/sqlfluff`](https://github.com/sqlfluff/sqlfluff) • [`rhysd/actionlint`](https://github.com/rhysd/actionlint) • [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck) | Complements [`dockerfile-guard`](https://github.com/slopggobblercobbler81/dockerfile-guard), [`sql-migration-linter`](https://github.com/slopggobblercobbler81/sql-migration-linter), and [`gha-workflow-auditor`](https://github.com/slopggobblercobbler81/gha-workflow-auditor). |
+| **Security & Secret Scanning** | [`gitleaks/gitleaks`](https://github.com/gitleaks/gitleaks) • [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) • [`aquasecurity/trivy`](https://github.com/aquasecurity/trivy) • [`bridgecrewio/checkov`](https://github.com/bridgecrewio/checkov) • [`sigstore/cosign`](https://github.com/sigstore/cosign) | Upstream inspiration and interoperability pairing for [`secret-leak-guard`](https://github.com/slopggobblercobbler81/secret-leak-guard) and [`dockerfile-sec-guard`](https://github.com/slopggobblercobbler81/dockerfile-sec-guard). |
+| **Git Hooks & Release Lifecycle** | [`pre-commit/pre-commit`](https://github.com/pre-commit/pre-commit) • [`conventional-changelog/commitlint`](https://github.com/conventional-changelog/commitlint) • [`orhun/git-cliff`](https://github.com/orhun/git-cliff) • [`pre-commit/pre-commit-hooks`](https://github.com/pre-commit/pre-commit-hooks) | Natively supported target hooks for [`commit-msg-guard`](https://github.com/slopggobblercobbler81/commit-msg-guard), [`commit-scope-lint`](https://github.com/slopggobblercobbler81/commit-scope-lint), and [`semver-release-planner`](https://github.com/slopggobblercobbler81/semver-release-planner). |
+| **API Contracts & Hyperlinks** | [`stoplightio/spectral`](https://github.com/stoplightio/spectral) • [`python-jsonschema/jsonschema`](https://github.com/python-jsonschema/jsonschema) • [`lycheeverse/lychee`](https://github.com/lycheeverse/lychee) | Companion validation pairs for [`openapi-spec-linter`](https://github.com/slopggobblercobbler81/openapi-spec-linter), [`json-schema-diff`](https://github.com/slopggobblercobbler81/json-schema-diff), and [`markdown-deadlink-checker`](https://github.com/slopggobblercobbler81/markdown-deadlink-checker). |
+| **Productivity & Shell CLI** | [`sharkdp/ripgrep`](https://github.com/BurntSushi/ripgrep) • [`sharkdp/fd`](https://github.com/sharkdp/fd) • [`junegunn/fzf`](https://github.com/junegunn/fzf) • [`casey/just`](https://github.com/casey/just) • [`jqlang/jq`](https://github.com/jqlang/jq) • [`mikefarah/yq`](https://github.com/mikefarah/yq) | Standard developer toolchain powering our local profiling, test suites, and high-throughput CLI filters. |
+
+---
+
 ### 🏆 Unlocked GitHub Achievements
 
 <div align="center">
