@@ -7,6 +7,7 @@
 [![Employer](https://img.shields.io/badge/Employer-Allsafe%20Cybersecurity-007acc?style=flat-square&logo=cisco)](https://github.com/slopggobblercobbler81)
 [![Degree](https://img.shields.io/badge/Degree-B.Sc.%20Systems%20%26%20Cryptography%20@%20TUM-critical?style=flat-square&logo=academia)](https://github.com/slopggobblercobbler81)
 [![OS](https://img.shields.io/badge/OS-Arch%20Linux%20%2F%2F%20FreeBSD%2011.4-blueviolet?style=flat-square&logo=archlinux)](https://github.com/slopggobblercobbler81)
+[![Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20(x2)%20•%20Quickdraw%20•%20YOLO-7952b3?style=flat-square&logo=github)](https://github.com/slopggobblercobbler81?tab=achievements)
 [![Tor](https://img.shields.io/badge/Tor%20Daemon-Active-success?style=flat-square&logo=torproject)](https://github.com/slopggobblercobbler81)
 
 </div>
@@ -31,7 +32,7 @@ $ neofetch --user slopggobblercobbler81 --location Munich
 
 | Category | Technologies / Frameworks / Stacks |
 | :--- | :--- |
-| **Systems & Low-Level** | C++20, FreeBSD POSIX Kernels, x86-64 Assembly, AnyPS5 Emulation, Memory Forensics |
+| **Systems & Low-Level** | C++20, FreeBSD POSIX Kernels, x86-64 Assembly, AnyPS5 Static Relinking, Memory Forensics |
 | **Security & Auditing** | TLS Protocol Analysis, Entropy Scanners, AST Linter Engines, GPG/PGP Keyrings |
 | **Developer Tooling** | Python, TypeScript, Rust, Go, Custom CLI Guards & Linter Daemons |
 | **DevOps & Infrastructure** | Docker, Kubernetes, Nginx, Steel Mountain Tape Archives, FreeBSD Jails |
@@ -40,17 +41,53 @@ $ neofetch --user slopggobblercobbler81 --location Munich
 
 ### 🛠️ Open-Source & Custom CLI Utilities
 
-I build strict, zero-dependency developer guardrails and CLI tools to enforce sanity in CI pipelines:
-- [`commit-msg-guard`](https://github.com/slopggobblercobbler81/commit-msg-guard) — Strict conventional commit validation engine.
-- [`secret-leak-guard`](https://github.com/slopggobblercobbler81/secret-leak-guard) — High-performance entropy & regex secret scanner.
-- [`docker-compose-validator`](https://github.com/slopggobblercobbler81) — Schema verification for complex compose orchestrations.
-- [`openapi-spec-linter`](https://github.com/slopggobblercobbler81) — REST API contract enforcement tool.
-- [`env-var-doctor`](https://github.com/slopggobblercobbler81) — Runtime environment variable health inspector.
-- [`json-schema-diff`](https://github.com/slopggobblercobbler81) — Deterministic schema diffing utility.
+I engineer strict, zero-dependency developer guardrails, schema checkers, and CLI tools to enforce sanity in CI pipelines and production runtimes:
+
+#### 🔒 Security, Linter & CI Guards
+- [`secret-leak-guard`](https://github.com/slopggobblercobbler81/secret-leak-guard) — High-performance CLI regex & Shannon entropy scanner for accidental tokens/secrets in git diffs.
+- [`commit-msg-guard`](https://github.com/slopggobblercobbler81/commit-msg-guard) — Production-grade Conventional Commits validator and git hook CLI utility.
+- [`docker-compose-validator`](https://github.com/slopggobblercobbler81/docker-compose-validator) — Linter, security auditor, and best-practices analyzer for Docker Compose setups.
+- [`markdown-deadlink-checker`](https://github.com/slopggobblercobbler81/markdown-deadlink-checker) — Production-grade zero-dependency dead link, broken relative path, and anchor validator for CI/CD.
+- [`gha-workflow-auditor`](https://github.com/slopggobblercobbler81/gha-workflow-auditor) — Fast CLI linter and security scanner for GitHub Actions workflows.
+
+#### 📐 Schemas, API Contracts & Data Engines
+- [`openapi-spec-linter`](https://github.com/slopggobblercobbler81/openapi-spec-linter) — OpenAPI 3.0/3.1 contract and schema validator with polymorphic discriminator support.
+- [`json-schema-diff`](https://github.com/slopggobblercobbler81/json-schema-diff) — Production-grade CLI & library to detect breaking changes between JSON schemas.
+- [`csv-to-sqlite-loader`](https://github.com/slopggobblercobbler81/csv-to-sqlite-loader) — Ultra-fast standalone CLI tool to load CSV files into SQLite tables with automatic type inference and indexing.
+- [`sql-migration-linter`](https://github.com/slopggobblercobbler81/sql-migration-linter) — Production-grade SQL migration linter detecting unsafe schema mutations and lock hazards.
+
+#### 🌐 Network, Runtime & Diagnostics
+- [`tls-cipher-scanner`](https://github.com/slopggobblercobbler81/tls-cipher-scanner) — High-assurance TLS cipher suite scanner, handshake inspector, and deprecated protocol detector.
+- [`env-var-doctor`](https://github.com/slopggobblercobbler81/env-var-doctor) — Runtime environment variable health inspector and configuration schema auditor.
+- [`env-drift-sentinel`](https://github.com/slopggobblercobbler81/env-drift-sentinel) — Continuous configuration drift detection and environment synchronization daemon.
+- [`webhook-replay-box`](https://github.com/slopggobblercobbler81/webhook-replay-box) — Local CLI utility to receive, inspect, record, and replay HTTP webhooks with signature verification.
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 🏆 Unlocked GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/slopggobblercobbler81?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="75" alt="Achievement: Pull Shark Bronze x2" title="Pull Shark (Bronze x2) — Merged pull requests" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/slopggobblercobbler81?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="75" alt="Achievement: Quickdraw" title="Quickdraw — Closed an issue or PR within 5 minutes" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/slopggobblercobbler81?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="75" alt="Achievement: YOLO" title="YOLO — Merged PR without review" />
+</a>
+
+<br/>
+<sub><b>Pull Shark (Bronze x2)</b> &nbsp;•&nbsp; <b>Quickdraw</b> &nbsp;•&nbsp; <b>YOLO</b></sub>
+
+</div>
+
+---
+
+### 📊 GitHub Telemetry & Activity
 
 <div align="center">
 
@@ -60,10 +97,6 @@ I build strict, zero-dependency developer guardrails and CLI tools to enforce sa
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=slopggobblercobbler81&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=slopggobblercobbler81&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
 
 </div>
 
